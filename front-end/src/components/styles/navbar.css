@@ -1,0 +1,30 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+.identification {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.navBarConnecter {
+  width: 300px;
+}
+
+.links {
+  text-decoration: none;
+  color: #555;
+}
+
+.buttonLi {
+  background-color: dodgerblue;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+}

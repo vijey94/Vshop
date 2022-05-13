@@ -1,0 +1,55 @@
+.imageDetail {
+  width: 350px;
+  height: 400px;
+}
+.containerDetail {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  border: 1px solid #ccc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 140%;
+}
+.nomDetail {
+  color: blue;
+}
+
+.deleteAnnonce {
+  background-color: red;
+  color: white;
+  border: 1px solid red;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.update {
+  background-color: teal;
+  color: white;
+  border: 1px solid teal;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+}
+
+.formAnnonce {
+  text-align: center;
+}
+
+.ajouterAnnonce {
+  background-color: dodgerblue;
+  color: white;
+  border: 1px solid dodgerblue;
+  border-radius: 5px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.updateAnnonce {
+  background-color: purple;
+  color: white;
+  border: 1px solid purple;
+  border-radius: 5px;
+  height: 30px;
+  margin-left: 5px;
+}

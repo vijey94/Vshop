@@ -1,0 +1,32 @@
+.milieu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.titre {
+  color: dodgerblue;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.inputForm {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.btnConnexion {
+  background-color: dodgerblue;
+  color: white;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid dodgerblue;
+}
